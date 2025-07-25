@@ -29,16 +29,3 @@ A clean, modern, and responsive developer portfolio built using **HTML**, **CSS*
 |-----------|-----------|------------|-------------------|
 | HTML5     | CSS Keyframes | Tailwind CSS | Netlify          |
 | CSS3      | Emoji Effects | Glassmorphism UI | GitHub Pages (optional) |
-
----
-
-## 🧠 SEO Meta Tags (Included)
-
-```html
-<meta name="description" content="Vaishnavi Gaikwad - Full-stack Developer Portfolio built using HTML, Tailwind CSS, and glassmorphism UI. Showcasing web apps, projects, and skills.">
-<meta name="keywords" content="Vaishnavi Gaikwad, Portfolio, Full-stack Developer, Web Developer, React, Tailwind CSS, JavaScript, India, Projects, Resume">
-<meta name="author" content="Vaishnavi Gaikwad">
-<meta property="og:title" content="Vaishnavi Gaikwad | Full-stack Developer Portfolio">
-<meta property="og:description" content="Portfolio of Vaishnavi Gaikwad - a web developer passionate about building fast, responsive, and modern web apps.">
-<meta property="og:image" content="https://vaishnaviportfolio-darkglassui.netlify.app/assets/screenshot.png">
-<meta property="og:url" content="https://vaishnaviportfolio-darkglassui.netlify.app">
